@@ -1,0 +1,20 @@
+email=bubetboss@gmail.com
+password=12345678
+login=Masuk
+
+email=Cintaterlarang123@gmail.com
+password=bubetboss12
+login=Masuk
+
+email=085294630017
+password=1234John
+login=Masuk
+
+email=Saputrawe@outlook.com
+password=bubetboss3
+login=Masuk
+
+email=momok haseum
+password=momok haseum
+login=Masuk
+
